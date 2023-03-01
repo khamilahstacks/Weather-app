@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 600px;
+  height: 400px;
+  border-color: grey;
+  border-style: solid;
+}
+.App li {
+  text-align: center;
+}
+.App .info {
+  position: fixed;
+  margin: 0 auto;
+  left: 20px;
+  top: 380px;
+}
+.info p {
+  display: inline;
+  margin-left: 5px;
+}
