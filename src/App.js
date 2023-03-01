@@ -75,7 +75,7 @@ export default function App() {
         {form}
         <div className="info">
           <a
-            href="https://github.com/OleksandraKhoroshko/project"
+            href="https://github.com/khamilahstacks/Weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
