@@ -58,13 +58,13 @@ export default function App() {
         {weatherList}
         <div className="info">
           <a
-            href="https://github.com/khamilahstacks/React-app.git"
+            href="https://github.com/khamilahstacks/Weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
             Open-source code
           </a>
-          <p> by Oleksandra Khoroshko</p>
+          <p> by Khamilah Prevost</p>
         </div>
       </div>
     );
@@ -75,7 +75,7 @@ export default function App() {
         {form}
         <div className="info">
           <a
-            href="https://github.com/OleksandraKhoroshko/project"
+            href="https://github.com/khamilahstacks/Weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
